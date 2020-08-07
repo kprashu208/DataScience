@@ -12,6 +12,6 @@ Now go and run the server.py file on your local machine on the "client/server.py
 Refresh the tab in which you have openede your app.html.
 
 <STEP 4>
-Fill in the details as per your wish. Click on "Get Estimated Price"
+Fill in the details as per your wish. Click on "Estimate Price"
 
 VOILAAA, you got the price for your dream house in Bangalore !!
